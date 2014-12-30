@@ -87,5 +87,5 @@ void loop(){
   */
   
   delay( 19 );
-  Serial.println("");
+  //Serial.println("");
 }
